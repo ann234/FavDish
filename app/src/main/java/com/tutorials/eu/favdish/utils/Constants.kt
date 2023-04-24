@@ -14,6 +14,16 @@ object Constants {
 
     const val EXTRA_DISH_DETAILS: String = "DishDetails"
 
+    const val ALL_ITEMS: String = "All"
+    const val FILTER_SELECTION: String = "FilterSelection"
+
+    const val API_ENDPOINT: String = "recipes/random"
+
+    const val API_KEY: String = "apiKey"
+    const val LIMIT_LICENSE: String = "limitLicense"
+    const val TAGS: String = "tags"
+    const val NUMBER: String = "number"
+
     /**
      * This function will return the Dish Type List items.
      */

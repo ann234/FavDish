@@ -81,12 +81,9 @@ class FavDishAdapter(private val fragment: Fragment) :
                     intent.putExtra(Constants.EXTRA_DISH_DETAILS, dish)
                     fragment.requireActivity().startActivity(intent)
                 } else if (it.itemId == R.id.action_delete_dish) {
-                    // TODO Step 6: Remove the log and call the function that we have created to delete.
-                    // START
                     if (fragment is AllDishesFragment) {
-                        fragment.deleteStudent(dish)
+                        fragment.deleteDish(dish)
                     }
-                    // END
                 }
                 true
             }
