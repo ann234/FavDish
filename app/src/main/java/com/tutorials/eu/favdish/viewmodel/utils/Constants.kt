@@ -1,4 +1,4 @@
-package com.tutorials.eu.favdish.utils
+package com.tutorials.eu.favdish.viewmodel.utils
 
 /**
  * This is used to define the constant values that we can use throughout the application.
@@ -23,6 +23,12 @@ object Constants {
     const val LIMIT_LICENSE: String = "limitLicense"
     const val TAGS: String = "tags"
     const val NUMBER: String = "number"
+
+    const val API_KEY_VALUE = "677739a6de9b4745b5667fb3f3cd0a1a"
+    const val BASE_URL = "https://api.spoonacular.com/"
+    const val LIMIT_LICENSE_VALUE: Boolean = true
+    const val TAGS_VALUE: String = "vegetarian, dessert"
+    const val NUMBER_VALUE: Int = 1
 
     /**
      * This function will return the Dish Type List items.

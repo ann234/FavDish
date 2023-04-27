@@ -36,7 +36,7 @@
     <fragment
         android:id="@+id/navigation_dish_details"
         android:name="com.tutorials.eu.favdish.view.fragments.DishDetailsFragment"
-        android:label="@string/title_dish_details"
+        android:label="@string/title_dish_detail"
         tools:layout="@layout/fragment_dish_details">
 
         <argument

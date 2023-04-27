@@ -44,7 +44,7 @@ import com.tutorials.eu.favdish.databinding.ActivityAddUpdateDishBinding
 import com.tutorials.eu.favdish.databinding.DialogCustomImageSelectionBinding
 import com.tutorials.eu.favdish.databinding.DialogCustomListBinding
 import com.tutorials.eu.favdish.model.entities.FavDish
-import com.tutorials.eu.favdish.utils.Constants
+import com.tutorials.eu.favdish.viewmodel.utils.Constants
 import com.tutorials.eu.favdish.view.adapters.CustomListItemAdapter
 import com.tutorials.eu.favdish.viewmodel.FavDishViewModel
 import com.tutorials.eu.favdish.viewmodel.FavDishViewModelFactory

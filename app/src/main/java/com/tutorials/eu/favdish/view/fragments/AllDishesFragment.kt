@@ -17,7 +17,7 @@ import com.tutorials.eu.favdish.application.FavDishApplication
 import com.tutorials.eu.favdish.databinding.DialogCustomListBinding
 import com.tutorials.eu.favdish.databinding.FragmentAllDishesBinding
 import com.tutorials.eu.favdish.model.entities.FavDish
-import com.tutorials.eu.favdish.utils.Constants
+import com.tutorials.eu.favdish.viewmodel.utils.Constants
 import com.tutorials.eu.favdish.view.activities.AddUpdateDishActivity
 import com.tutorials.eu.favdish.view.activities.MainActivity
 import com.tutorials.eu.favdish.view.adapters.CustomListItemAdapter

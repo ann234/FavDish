@@ -12,7 +12,7 @@ import com.bumptech.glide.Glide
 import com.tutorials.eu.favdish.R
 import com.tutorials.eu.favdish.databinding.ItemDishLayoutBinding
 import com.tutorials.eu.favdish.model.entities.FavDish
-import com.tutorials.eu.favdish.utils.Constants
+import com.tutorials.eu.favdish.viewmodel.utils.Constants
 import com.tutorials.eu.favdish.view.activities.AddUpdateDishActivity
 import com.tutorials.eu.favdish.view.fragments.AllDishesFragment
 import com.tutorials.eu.favdish.view.fragments.FavoriteDishesFragment
